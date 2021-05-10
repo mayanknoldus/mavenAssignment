@@ -1,0 +1,4 @@
+# Project exclude paths
+/cal-api/target/
+/cal-impl/target/
+/out/
